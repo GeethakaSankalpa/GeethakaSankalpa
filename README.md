@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing a degree in BEng Software Engineering. <br>👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning Java, Python, and Web Designing<br>💬 Ask me about Programming and Web Designing<br>⚡ Nice and Cool - It's me
+🔭 I’m currently pursuing a degree in BEng Software Engineering. <br>👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning React, Firebase, MongoDB, Java, Python, and Web Designing<br>💬 Ask me about Programming and Web Designing<br>⚡ Nice and Cool - It's me
 
 
 ## 🌐 Socials:
